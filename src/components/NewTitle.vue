@@ -12,5 +12,11 @@ export default {
 
 <!-- CSS -->
 <style scoped lang="scss">
-
+h1 {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 50px;
+  font-size: 50px;
+  color: #900;
+}
 </style>
